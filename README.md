@@ -29,6 +29,7 @@ I am open to restructing this html if a better way is known. I am a beginner at 
 - Removed Mile2 certifications: C)VE, C)VCP, C)VFE, and Red vs Blue
 - Removed 9 Lunarline certifications as they were purchased by Motorola and the certifications appear to be discontinued: CEIM, CESO, CEPP, CERP, CEPM, CESA, CESE, CECS, and CEIA
 - Removed GSSP which was retired
+- Removed Zero Point certification: ZPRTO (duplicate)
 - Moved F5 CA up 3 rows
 - Moved WCNA down 1 row
 - Moved CCT down 1 row
@@ -50,8 +51,9 @@ I am open to restructing this html if a better way is known. I am a beginner at 
 - Added a column to Security Architecture & Engineering - Cloud/SysOps for container certs and more spacing
 - Added a column to Security and Risk Management in order to add additional ISO/IEC 27000 certifications
 - Added more code comments
-- Redesigned tooltips to display in place (absolute to relative positioning)
 - Added more contrast to colors: dark blue for blue team, lighter blue for software sec, darker purple for testing, grey for management, and lighter yellow for asset sec. (I tested magenta as a replacement for black and it was not pleasing on the eye.)
+- Redesigned mobile version to horizontal scroll rather than revert to a static image. Tooltips still not working properly on mobile.
+- Redesigned tooltips to display in place (absolute to relative positioning)
 
 ### July 2021:
 - Added Mosse Cyber Security Institute Certifications: MOIS, MNSE, MRCI, MBT, MDFIR, MGRC, MPT, MRE, MTH, MCD, MRT, and MTIA
